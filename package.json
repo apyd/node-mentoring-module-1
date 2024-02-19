@@ -1,0 +1,23 @@
+{
+  "name": "mentoring-module-1",
+  "version": "1.0.0",
+  "description": "Node introduction",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apyd/node-mentoring-module-1.git"
+  },
+  "author": "Artur Pydych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apyd/node-mentoring-module-1/issues"
+  },
+  "homepage": "https://github.com/apyd/node-mentoring-module-1#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
